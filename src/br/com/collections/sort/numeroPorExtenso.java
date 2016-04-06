@@ -1,4 +1,4 @@
-package estruturaDadosll;
+package br.com.collections.sort;
 /**numeroPorExenso, representa o elo de ligação entre os objetos numero,transformaArray,
  * OrdenaDes e numeroExtenso.
  * 
